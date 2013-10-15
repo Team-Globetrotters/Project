@@ -1,0 +1,18 @@
+git config --global user.name YOURUSERNAME
+git config --global user.email YOUREMAIL
+
+set up new folder called repo on c drive
+
+cd C:\repo
+
+*To Clone a repo from the web*
+
+git clone https://github.com/Team-Globetrotters/Project.git
+
+*To push changes*
+
+git add *
+
+git commit -m COMMENT
+
+git push origin master
